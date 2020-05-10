@@ -1,2 +1,2 @@
 # Chat-Room
-Chat room using sockets in python and python GUI toolkit tkinter
+A server-client based Chat room using sockets in python and python GUI toolkit tkinter
